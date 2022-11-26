@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/udemy-courses/udemy-course-unreal-engine/Section1/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VE/OT2KDZSIW83MDYQ9KFRWNZ.uasset",
+				"D:/udemy-courses/udemy-course-unreal-engine/Section1/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IQ/ASEPG4HTTC8MZXYSD6V31F.uasset",
+				"D:/udemy-courses/udemy-course-unreal-engine/Section1/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F7/NFDXEIM0K2FORH8PNFU72E.uasset"
+			]
+		}
+	]
+}
